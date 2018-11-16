@@ -1,1 +1,2 @@
 # SecondAssignment
+ez is elég?
